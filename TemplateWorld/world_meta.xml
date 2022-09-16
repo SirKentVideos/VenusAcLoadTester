@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.3600.17504</GameVersion>
+  <DateTime>133077757804412408</DateTime>
+  <DaysPast>2</DaysPast>
+  <WorldName />
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Venus AC Load Tester</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>0</NumberOfRooms>
+  <NumberOfPipeNetworks>3</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>2</NumberOfCableNetworks>
+  <NumberOfThings>169</NumberOfThings>
+  <NumberOfAtmospheres>20</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
